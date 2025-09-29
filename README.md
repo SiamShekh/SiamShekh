@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-<a href="https://t.me/Siiiam">
+<a href="https://t.me/Siam_shekh_n">
   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"/>
 </a>
 <a href="https://www.linkedin.com/in/siamshekh/">
@@ -27,14 +27,10 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: MD. Siam Shekh
+name: MD. Siam Sheikh
 located_in: Pabna, Bangladesh
-current_job: Android Developer
-company:
-  [
-    "Nur-e-Deen"
-    "Nur-e-Quran"
-  ]
+current_job: Software engineer
+company: "Syntax Lab"
 
 fields_of_interests:
   [
@@ -45,10 +41,6 @@ fields_of_interests:
     "Game Development",
     "DevOps",
   ]
- 
-
-2023 Goals: ["Reach Nur-e-Quran 50K Install"]
-hobbies: ["Quran", "Development", "Cricket", "Comedy"]
 ```
   
 ---  
